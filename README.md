@@ -36,6 +36,7 @@ Start by setting your trimpot to zero resistance using the following procedure:
 
 ## Circuit 3.3: Trimpot controlled fan
 Breadboard the following circuit. Show the circuit to your teacher for marking.  
+
 !(Circuit 3.3)[images/circuit3.3.png]
 
 
