@@ -1,4 +1,4 @@
-# electronic-skills-3-controlling-a-fan
+# Electronic Skills 3: Controlling a Fan
 
 In this assignment you will breadboard your salvaged computer fan, learn about trimpots and create a circuit for controlling the speed of the fan.
 
